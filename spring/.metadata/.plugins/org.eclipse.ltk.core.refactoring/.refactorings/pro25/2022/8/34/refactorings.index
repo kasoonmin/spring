@@ -1,0 +1,9 @@
+1660880589171	Rename package 'com.spring.account.Controller'
+1660880596485	Rename package 'com.spring.account.DAO'
+1660880601756	Rename package 'com.spring.account.Service'
+1660880612942	Rename package 'com.spring.account.Vo'
+1660886224536	Rename type 'AccountController'
+1660886238586	Rename type 'AccountControllerImpl'
+1660893162219	Rename type 'AccountController'
+1660893224978	Delete element
+1660893231552	Rename type 'AccountControllerImpl'

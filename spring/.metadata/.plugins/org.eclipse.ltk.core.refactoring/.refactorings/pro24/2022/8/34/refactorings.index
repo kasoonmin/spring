@@ -1,0 +1,25 @@
+1660802505812	Rename resource 'jdbc.properties.xml'
+1660802514404	Delete element
+1660806607165	Rename package 'VO'
+1660807110233	Rename type 'UserController'
+1660808480065	Delete element
+1660808501620	Rename type 'MemberService2'
+1660808579764	Rename type 'MemberDAO'
+1660808584730	Rename compilation unit 'MemberDAO1.java'
+1660809007258	Move compilation unit
+1660809009555	Move compilation unit
+1660809012209	Move compilation unit
+1660809014462	Move compilation unit
+1660809017337	Delete element
+1660809023632	Delete element
+1660809038792	Move compilation unit
+1660809041350	Delete element
+1660809051706	Move compilation unit
+1660809055573	Delete element
+1660809445905	Delete element
+1660809924617	Delete element
+1660810871285	Delete element
+1660813625337	Move 'memberForm.jsp' to 'WEB-INF'
+1660813649729	Move 'memberForm.jsp' to 'member'
+1660868518113	Move 'listMembers.jsp' to 'WEB-INF'
+1660868525181	Move 'listMembers.jsp' to 'member'
